@@ -1,0 +1,19 @@
+# Build output
+/target/
+**/target/
+
+# IDE files
+/.idea/
+**/.idea/
+*.iml
+
+# Java / Maven output
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GitLab-specific config if not used for GitHub
+.gitlab-ci.yml
