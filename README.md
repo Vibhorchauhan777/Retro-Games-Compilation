@@ -258,6 +258,6 @@ Contributions are welcome. If you plan to extend the project, keep the following
 
 ---
 
-## License
+## Connect With Me
 
-This project is distributed under the repository license included in the project root.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vibhorchauhan/)
